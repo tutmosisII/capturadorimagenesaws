@@ -1,0 +1,33 @@
+{
+  "name": "imagecatpture",
+  "version": "1.0.0",
+  "description": "Capturador de imagenes en aws",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tutmosisII/capturadorimagenesaws.git"
+  },
+  "keywords": [
+    "serverless",
+    "aws",
+    "nodejs",
+    "puppeter",
+    "chrome"
+  ],
+  "author": "Alejandro León",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tutmosisII/capturadorimagenesaws/issues"
+  },
+  "homepage": "https://github.com/tutmosisII/capturadorimagenesaws#readme",
+  "devDependencies": {
+    "serverless-offline": "^6.4.0"
+  },
+  "dependencies": {
+    "chrome-aws-lambda": "^3.1.1",
+    "puppeteer-core": "^4.0.1"
+  }
+}

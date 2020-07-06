@@ -1,0 +1,42 @@
+{"e":
+    {"body":null,
+    "headers":{"Host":"127.0.0.1:3001","Connection":"keep-alive","Upgrade-Insecure-Requests":"1",
+               "User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36",
+               "Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+               "Sec-Fetch-Site":"none","Sec-Fetch-Mode":"navigate","Sec-Fetch-User":"?1","Sec-Fetch-Dest":"document",
+               "Accept-Encoding":"gzip, deflate, br",
+               "Accept-Language":"es-CO,es;q=0.9,en-US;q=0.8,en;q=0.7,es-419;q=0.6"},"httpMethod":"GET",
+               "isBase64Encoded":false,"multiValueHeaders":{
+                                          "Host":["127.0.0.1:3001"],
+                                          "Connection":["keep-alive"],
+                                          "Upgrade-Insecure-Requests":["1"],
+                                          "User-Agent":["Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36"],
+                                          "Accept":["text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9"],
+                                          "Sec-Fetch-Site":["none"],"Sec-Fetch-Mode":["navigate"],"Sec-Fetch-User":["?1"],
+                                          "Sec-Fetch-Dest":["document"],"Accept-Encoding":["gzip, deflate, br"],
+                                          "Accept-Language":["es-CO,es;q=0.9,en-US;q=0.8,en;q=0.7,es-419;q=0.6"]
+                                          },
+                "multiValueQueryStringParameters":null,
+                "path":"/v1/captureimg","pathParameters":null,"queryStringParameters":null,
+                "requestContext":{"accountId":"offlineContext_accountId","apiId":"offlineContext_apiId",
+                                   "authorizer":{
+                                              "principalId":"offlineContext_authorizer_principalId"},
+                                              "domainName":"offlineContext_domainName",
+                                              "domainPrefix":"offlineContext_domainPrefix",
+                                              "extendedRequestId":"ckc4y05lz00007tun9jqq3vxg",
+                                              "httpMethod":"GET",
+                                              "identity":{
+                                                  "accessKey":null,"accountId":"offlineContext_accountId",
+                                                  "apiKey":"offlineContext_apiKey","caller":"offlineContext_caller",
+                                                  "cognitoAuthenticationProvider":"offlineContext_cognitoAuthenticationProvider",
+                                                  "cognitoAuthenticationType":"offlineContext_cognitoAuthenticationType",
+                                                  "cognitoIdentityId":"offlineContext_cognitoIdentityId",
+                                                  "cognitoIdentityPoolId":"offlineContext_cognitoIdentityPoolId",
+                                                  "principalOrgId":null,"sourceIp":"127.0.0.1","user":"offlineContext_user",
+                                                  "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36",
+                                                  "userArn":"offlineContext_userArn"},"path":"/v1/captureimg","protocol":"HTTP/1.1",
+                                                  "requestId":"ckc4y05lz00017tun3pzw1y82","requestTime":"02/Jul/2020:10:27:28 -0500",
+                                                  "requestTimeEpoch":1593703648859,"resourceId":"offlineContext_resourceId",
+                                                  "resourcePath":"/dev/v1/captureimg","stage":"dev"},"resource":"/dev/v1/captureimg",
+                                                  "stageVariables":null}
+                                                }
