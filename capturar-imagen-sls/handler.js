@@ -37,11 +37,11 @@ exports.handler = async (event, context, callback) => {
     console.log("args: %s",chromium.args);
 
     await page.goto(event.queryStringParameters.url || 'https://example.com');
-
+    await page.screenshot({path:'/tmp/screen.png'});
     result = await page.title();
   } catch (error) {
     return callback(error);
-  } finally {111
+  } finally {
     if (browser !== null) {
       await browser.close();
     }

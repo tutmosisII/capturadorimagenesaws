@@ -1,6 +1,6 @@
 # Captura de Pantallas con Chrome en AWS
 
-Cuando se trabaja en arquitectura serverles uno de los problemas más grandes es no tener la infraestructura para probar. Pero en este caso eso se soluciona con el uso de nodejs y los el framework de [serveless](https://www.serverless.com/examples/aws-node-puppeteer) que nos permitirá trabajar en AWS.
+Cuando se trabaja en arquitectura serverles uno de los problemas más grandes es no tener la infraestructura para probar. Pero en este caso eso se soluciona con el uso de nodejs y  el framework de [serveless](https://www.serverless.com/examples/aws-node-puppeteer) que nos permitirá trabajar en AWS.
 
 ## 1) Instalar nodejs
 
