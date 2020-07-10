@@ -10,6 +10,7 @@ sudo apt-get install -y npm
 
 npm install serverless -g
 npm install serverless-offline --save-dev
+npm install --save-dev
 
 Con serverless fuera de lina podrás probar tu función de manera local usando
 
@@ -26,6 +27,9 @@ npm install chrome-aws-lambda --save-prod
 Instalacion de **puppetter**  sin navegador
 
 npm install puppeteer-core --save-prod
+
+### Libreria para manejo de archivos:  [fs-extra](https://www.npmjs.com/package/fs-extra)
+npm install fs-extra
 
 
 ## 3) Crear el proyecto de nodejs
@@ -49,7 +53,7 @@ https://github.com/adieuadieu/serverless-chrome/blob/master/docs/chrome.md#local
 
 Github seguido para este desarollo
 
-https://github.com/alixaxel/chrome-aws-lambda
+https://github.com/alixachrome-aws-lambdaxel/chrome-aws-lambda
 
 
 
